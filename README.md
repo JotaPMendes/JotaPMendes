@@ -1,4 +1,4 @@
-## 👋 E aí? Sou o João Paulo Mendes, mais conhecido como Jota! 😎
+## E aí? Sou o João Paulo Mendes, mais conhecido como Jota!
 
 Bem-vindo ao meu espacinho no GitHub!
 
